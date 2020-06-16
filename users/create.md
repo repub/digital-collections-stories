@@ -8,5 +8,5 @@ References: [CHO-172](https://github.com/psu-libraries/cho/issues/172), [CHO-350
 
 - [ ] Pass accessibility tests
 - [ ] Be responsively designed ([CHO-138](https://github.com/psu-libraries/cho/issues/138))
-- [ ] Allow for Penn State, Admin, and Guest user roles
-- [ ] Allow permissions to be assigned to User on create
+- [ ] Allow for Penn State, Admin, and Guest user roles ([CHO-684](https://github.com/psu-libraries/cho/issues/684))
+- [ ] Allow permissions to be assigned to User on create ([CHO-684](https://github.com/psu-libraries/cho/issues/684))

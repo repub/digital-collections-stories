@@ -1,12 +1,16 @@
 Still haven't found a good way to track user stories, functional requirements, and UX testing notes. I'm pretty sure this repository isn't it but I'll give it a shot again before I try something else.
 
-## Fundamental truths
+## First principles
 
 ([templates for including these in user stories](it-should.md))
 
 The Repository and all of its content should comply with [WCAG 2.0](https://www.w3.org/TR/WCAG20) and [Section 508](https://en.wikipedia.org/wiki/Section_508_Amendment_to_the_Rehabilitation_Act_of_1973) accessibility standards, as documented by VPAT and/or by accessibility testing. ([Request a CONTENTdm VPAT](https://help.oclc.org/Metadata_Services/CONTENTdm/Troubleshooting/How_do_I_receive_a_copy_of_the_CONTENTdm_VPAT))
 
 The Repository and all of its content should be responsively designed.
+
+The Repository and its contents should be represented by persistent URLs, in line with a broader University Libraries-level strategy for uniquely identifying its digital assets. ([CHO-22](https://github.com/psu-libraries/cho/issues/22), [CHO-132](https://github.com/psu-libraries/cho/issues/132), [CHO-133](https://github.com/psu-libraries/cho/issues/133), [CHO-164](https://github.com/psu-libraries/cho/issues/164))
+
+The Repository and its contents should be represented by UUIDs native to the Repository itself. ([CHO-64](https://github.com/psu-libraries/cho/issues/64))
 
 ## Design considerations
 
