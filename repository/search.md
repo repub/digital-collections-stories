@@ -16,6 +16,9 @@ As a User, I would like the ability to search the Repository, so that I can find
     * A user should be able to easily switch between basic and advanced search ([CHO-41](https://github.com/psu-libraries/cho/issues/41))
 - [ ] [Filter search results](https://git.psu.edu/kmc35/digital-collections/-/issues/15)
     - [ ] Filter by EDTF date ([CHO-33](https://github.com/psu-libraries/cho/issues/33), [CHO-723](https://github.com/psu-libraries/cho/issues/723), [CHO-724](https://github.com/psu-libraries/cho/issues/724), [CHO-725](https://github.com/psu-libraries/cho/issues/725))
+    - [ ] Filter by collection or object restrictions (closed, restricted to PSU community, metadata-only)
+        * Per reference question received 2020-06-29
+        * Also came up several times in the first round of UX testing
 - [ ] Limit searches by Collection ([CHO-9](https://github.com/psu-libraries/cho/issues/9), [CHO-10](https://github.com/psu-libraries/cho/issues/10) (across collections))
 - [ ] Sort results:
     - [ ] By Collection ([CHO-128](https://github.com/psu-libraries/cho/issues/128))
